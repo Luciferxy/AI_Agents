@@ -6,7 +6,7 @@ Email AI Agent is an intelligent email assistant built with CrewAI, LangChain, a
 ## ✨ Features
 
 
-✉️ Core Email Automation
+## ✉️ Core Email Automation
 Interactive Email Drafting:
 
 Generates professional email responses in real-time.
@@ -29,7 +29,7 @@ Web Search Integration:
 
 Uses DuckDuckGo Search to fetch relevant information for email responses.
 
-🧠 AI-Powered Intelligence
+## 🧠 AI-Powered Intelligence
 CrewAI Orchestration:
 
 Multi-agent workflows for handling complex email tasks.
@@ -48,7 +48,7 @@ Lightning-fast inference using state-of-the-art models like Mixtral.
 
 High-performance, low-latency email generation.
 
-🎨 User Experience
+## 🎨 User Experience
 Simple Interface:
 
 Easy-to-use interface for seamless email management.
@@ -65,7 +65,7 @@ Personalized Replies:
 
 Tailors responses based on the sender’s tone and context.
 
-⚡ Technical Innovations
+## ⚡ Technical Innovations
 CrewAI Framework:
 
 Clean component architecture for multi-agent systems.
@@ -88,20 +88,7 @@ DuckDuckGo Search:
 
 Real-time web search for additional context.
 
-📱 Mobile Excellence
-Responsive Design:
-
-Works seamlessly on desktop and mobile devices.
-
-Touch-optimized controls for easy interaction.
-
-Offline-First Caching:
-
-Caches frequently used data for offline access.
-
-Ensures smooth performance even with limited connectivity.
-
-🛠️ Developer Tools
+## 🛠️ Developer Tools
 Hot Module Replacement:
 
 Instant updates for 3D components during development.
