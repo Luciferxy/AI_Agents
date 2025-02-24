@@ -31,5 +31,5 @@ Follow these steps to set up the Email AI Agent:
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/yourusername/email-ai-agent
-   cd email-ai-agent
+   git clone https://github.com/Luciferxy/AI_Agents.git
+   cd AI_Agents
